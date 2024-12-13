@@ -1,0 +1,11 @@
+<svg id="sidemenu" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <rect id="back" width="28" height="28" rx="6" fill="none"/>
+  <g id="menu_icon" transform="translate(2 5.427)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="24" height="24" rx="5" transform="translate(0 -3.427)" fill="none"/>
+    <g id="side_menu" data-name="side menu">
+      <path id="Path_12252" data-name="Path 12252" d="M7.1,2.531H22.734a1.266,1.266,0,1,0,0-2.531H7.1a1.266,1.266,0,1,0,0,2.531Z" transform="translate(-5.834)" fill="#014e78"/>
+      <path id="Path_12253" data-name="Path 12253" d="M12,17.146H22.734a1.266,1.266,0,1,0,0-2.531H12a1.266,1.266,0,1,0,0,2.531Z" transform="translate(-10.734)" fill="#014e78"/>
+      <path id="Path_12254" data-name="Path 12254" d="M1.266,9.838H22.734a1.266,1.266,0,1,0,0-2.531H1.266a1.266,1.266,0,1,0,0,2.531Z" fill="#014e78"/>
+    </g>
+  </g>
+</svg>

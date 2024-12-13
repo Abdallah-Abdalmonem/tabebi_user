@@ -1,0 +1,5 @@
+<svg id="fb" xmlns="http://www.w3.org/2000/svg" width="51" height="50" viewBox="0 0 51 50">
+  <rect id="Rectangle_2094" data-name="Rectangle 2094" width="51" height="50" rx="25" fill="none"/>
+  <circle id="Ellipse_107" data-name="Ellipse 107" cx="25" cy="25" r="25" transform="translate(0.5)" fill="#1e4fad"/>
+  <path id="Path_12740" data-name="Path 12740" d="M28.216,15.716c.91-.02,1.82,0,2.731,0h.384V10.983c-.485-.04-.991-.121-1.5-.142-.93-.04-1.861-.081-2.791-.061A6.879,6.879,0,0,0,23.1,11.994a5.912,5.912,0,0,0-2.367,3.944,13.633,13.633,0,0,0-.162,2.023c-.02,1.052,0,2.124,0,3.176v.4H16.04V26.82h4.49V40.109h5.5V26.841h4.49c.222-1.76.445-3.5.688-5.3H25.991s0-2.609.04-3.762c.04-1.557.971-2.023,2.2-2.083Z" transform="translate(0.5)" fill="#fff" fill-rule="evenodd"/>
+</svg>

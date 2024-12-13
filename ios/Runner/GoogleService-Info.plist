@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>391264764757-ku8s4b8vedpsnmommtavive8h0j5gmcf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.391264764757-ku8s4b8vedpsnmommtavive8h0j5gmcf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>391264764757-c9bk7o7fjrhpu2pibjcg6uof78nlmgoe.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2S3pchz4Yx-MDFE12qWLswdMjWt6hgvo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>391264764757</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.tabebiuser</string>
+	<key>PROJECT_ID</key>
+	<string>tabebi-bc72f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tabebi-bc72f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:391264764757:ios:71750b5d298c8f9c2fa5dc</string>
+</dict>
+</plist>

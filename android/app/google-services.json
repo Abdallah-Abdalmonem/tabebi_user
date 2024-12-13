@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "391264764757",
+    "project_id": "tabebi-bc72f",
+    "storage_bucket": "tabebi-bc72f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391264764757:android:321a796a591b5dae2fa5dc",
+        "android_client_info": {
+          "package_name": "com.app.tabebi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391264764757-fro24k7igh1lsp1m71momjq6e05sc30c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.tabebi",
+            "certificate_hash": "771a6f0e986037ae58dfcf6db02731c00fbb1ad3"
+          }
+        },
+        {
+          "client_id": "391264764757-gdvst807bhrha2m0qs4rs8484p6jq0s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.tabebi",
+            "certificate_hash": "168d8fde27a409425a29243d6b4665a33a874deb"
+          }
+        },
+        {
+          "client_id": "391264764757-m3n0bb3nrp076k4lt8jv966ejpu4pcrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.tabebi",
+            "certificate_hash": "18015e766863d08a08d3784e53891c022b2db9ce"
+          }
+        },
+        {
+          "client_id": "391264764757-o05jn3kv2a8ktibllhiss38qtgje2vba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoNd4aFFe-2rrV0oSXz1k_W1bp1COaP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391264764757-o05jn3kv2a8ktibllhiss38qtgje2vba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391264764757-ekk9oat3qobkaue3odm2ts365au2humb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.tabebi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391264764757:android:7358c811d00541272fa5dc",
+        "android_client_info": {
+          "package_name": "com.app.tabebiuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391264764757-o05jn3kv2a8ktibllhiss38qtgje2vba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoNd4aFFe-2rrV0oSXz1k_W1bp1COaP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391264764757-o05jn3kv2a8ktibllhiss38qtgje2vba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391264764757-ekk9oat3qobkaue3odm2ts365au2humb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.tabebi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391264764757:android:9f1de5d367b8117f2fa5dc",
+        "android_client_info": {
+          "package_name": "com.tabebi.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391264764757-c9bk7o7fjrhpu2pibjcg6uof78nlmgoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabebi.doctor",
+            "certificate_hash": "18015e766863d08a08d3784e53891c022b2db9ce"
+          }
+        },
+        {
+          "client_id": "391264764757-o05jn3kv2a8ktibllhiss38qtgje2vba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoNd4aFFe-2rrV0oSXz1k_W1bp1COaP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391264764757-o05jn3kv2a8ktibllhiss38qtgje2vba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391264764757-ekk9oat3qobkaue3odm2ts365au2humb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.tabebi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.tabebiuser",
+      "sha256_cert_fingerprints":
+      ["04:45:A9:2B:D0:4C:00:35:DE:E6:CE:AE:B3:B6:5B:D6:79:DF:99:00:E9:7C:51:AA:B7:14:4B:03:9A:C4:0D:B7"]
+    }
+  }]
+  
