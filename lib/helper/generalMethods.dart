@@ -48,7 +48,7 @@ class GeneralMethods {
     } else if (connectivityResult == ConnectivityResult.wifi) {
       check = true;
     }
-    return check;
+    return true;
   }
 
   static String getFileSizeString({required int bytes, int decimals = 0}) {

@@ -71,17 +71,18 @@ class NotificationHandler {
       requestAlertPermission: true,
       requestBadgePermission: false,
       requestSoundPermission: true,
-      onDidReceiveLocalNotification:
-          (int id, String? title, String? body, String? payload) async {
-        /*didReceiveLocalNotificationStream.add(
-          ReceivedNotification(
-            id: id,
-            title: title,
-            body: body,
-            payload: payload,
-          ),
-        );*/
-      },
+      //
+      // onDidReceiveLocalNotification:
+      //     (int id, String? title, String? body, String? payload) async {
+      //   /*didReceiveLocalNotificationStream.add(
+      //     ReceivedNotification(
+      //       id: id,
+      //       title: title,
+      //       body: body,
+      //       payload: payload,
+      //     ),
+      //   );*/
+      // },
       notificationCategories: [],
     );
     final InitializationSettings initializationSettings =

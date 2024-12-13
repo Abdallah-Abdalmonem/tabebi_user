@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 import 'package:tabebi/models/lab.dart';
-import 'package:file_picker/file_picker.dart';
+
 import 'package:tabebi/screens/labAppointment/labListPage.dart';
 import '../../app/routes.dart';
 import '../../cubits/doctor/bookAppointmentCubit.dart';
@@ -110,24 +110,25 @@ class _ConfirmLabAppointmentState extends State<ConfirmLabAppointment> {
                 Flexible(
                   child: OutlinedButton(
                       onPressed: () async {
-                        FilePickerResult? result;
-                        if (Constant.uploadReportTypes.isEmpty) {
-                          result = await FilePicker.platform.pickFiles(
-                            allowMultiple: true,
-                          );
-                        } else {
-                          result = await FilePicker.platform.pickFiles(
-                              allowMultiple: true,
-                              type: FileType.custom,
-                              allowedExtensions: Constant.uploadReportTypes);
-                        }
-                        if (result != null) {
-                          List<File> files =
-                              result.paths.map((path) => File(path!)).toList();
-                          attachmentList.addAll(files);
-                          isoversize = false;
-                          setState(() {});
-                        }
+                        // FilePickerResult? result;
+                        // if (Constant.uploadReportTypes.isEmpty) {
+                        //   result = await FilePicker.platform.pickFiles(
+                        //     allowMultiple: true,
+                        //   );
+                        // }
+                        // else {
+                          // result = await FilePicker.platform.pickFiles(
+                          //     allowMultiple: true,
+                          //     type: FileType.custom,
+                          //     allowedExtensions: Constant.uploadReportTypes);
+                        // }
+                        // if (result != null) {
+                        //   List<File> files =
+                        //       result.paths.map((path) => File(path!)).toList();
+                        //   attachmentList.addAll(files);
+                        //   isoversize = false;
+                        //   setState(() {});
+                        // }
                       },
                       style: OutlinedButton.styleFrom(
                           shape: DesignConfig.setRoundedBorder(20, true)),
